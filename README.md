@@ -1,5 +1,5 @@
 
-<h1>Integrantes do Trabalho Avaliativo</h1>
+<h1>Membros do Trabalho Avaliativo</h1>
 
  - Éverton Eduardo Rodrigues Reis
  - João Pedro Desbesel Appelt
