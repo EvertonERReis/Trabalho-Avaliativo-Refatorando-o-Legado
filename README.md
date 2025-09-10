@@ -1,9 +1,9 @@
 
-<h1>Integrantes do Trabalho Avaliativo</h1>
+<h1>Componentes do Trabalho Avaliativo</h1>
 
  - Éverton Eduardo Rodrigues Reis
  - João Pedro Desbesel Appelt
- - Jorge 
+ - Jorge
 
   ## Descrição
 
