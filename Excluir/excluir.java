@@ -14,7 +14,7 @@ public class GerenciadorTarefas {
         while (true) {
             System.out.println("\n--- Menu Principal ---");
             System.out.println("1. Excluir Tarefa");
-            System.out.println("21. Sair");
+            System.out.println("2. Sair");
             System.out.print("Escolha uma opção: ");
             entrada = scanner.nextLine();
 
