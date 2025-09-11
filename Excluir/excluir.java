@@ -92,7 +92,7 @@ public class GerenciadorTarefasMembro3EvertonEJoao {
             } else if (entrada.equals("5")) {
                 System.out.println("Saindo do programa. Até mais!");
                 break;
-
+            //ao contrario
             } else {
                 System.out.println("Opção inválida. Tente novamente.");
             }
