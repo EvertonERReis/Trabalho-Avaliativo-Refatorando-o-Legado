@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class GerenciadorTarefasMembro4EvertonEJoao {
+public class GerenciadorTarefasMain{
     public static void main(String[] args) {
         System.out.println("Bem-vindo ao GERENCIADOR LEGADO DE TAREFAS - Membro(Everton e João)!");
         System.out.println("Este código não usa classes e métodos para simular um projeto antigo.");
